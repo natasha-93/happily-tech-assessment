@@ -187,19 +187,28 @@ const IndexPage = () => (
             <label className="text-white block uppercase tracking-wide text-xs font-bold mb-1">
               First Name
             </label>
-            <Input type="text" className="block w-full shadow-xl rounded" />
+            <Input
+              type="text"
+              className="block w-full shadow-xl rounded text-black"
+            />
           </div>
           <div className="w-full md:w-1/2 px-3">
             <label className="text-white block uppercase tracking-wide text-xs font-bold mb-1">
               Last Name
             </label>
-            <Input type="text" className="block w-full shadow-xl rounded" />
+            <Input
+              type="text"
+              className="block w-full shadow-xl rounded text-black"
+            />
           </div>
           <div className="w-full px-3 mb-6 md:mb-0">
             <label className="text-white block uppercase tracking-wide text-xs font-bold mb-1">
               Company
             </label>
-            <Input type="text" className="block w-full shadow-xl rounded" />
+            <Input
+              type="text"
+              className="block w-full shadow-xl rounded text-black"
+            />
           </div>
         </div>
         <div className="flex flex-col justify-center items-center ">
