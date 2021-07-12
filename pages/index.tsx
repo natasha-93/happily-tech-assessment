@@ -189,7 +189,7 @@ const IndexPage = () => (
             </label>
             <Input
               type="text"
-              className="block w-full shadow-xl rounded text-black"
+              className="block w-full shadow-xl rounded text-black pl-2"
             />
           </div>
           <div className="w-full md:w-1/2 px-3">
@@ -198,7 +198,7 @@ const IndexPage = () => (
             </label>
             <Input
               type="text"
-              className="block w-full shadow-xl rounded text-black"
+              className="block w-full shadow-xl rounded text-black pl-2"
             />
           </div>
           <div className="w-full px-3 mb-6 md:mb-0">
@@ -207,7 +207,7 @@ const IndexPage = () => (
             </label>
             <Input
               type="text"
-              className="block w-full shadow-xl rounded text-black"
+              className="block w-full shadow-xl rounded text-black pl-2"
             />
           </div>
         </div>
